@@ -1,5 +1,6 @@
-# prototype-practice-twitter
-Twitter mobile app (Android) design with Adobe XD - http://blog.amirmasoud.net 
+# Stage 1
+
+Color boards and Home page.
 
 ### LISENCE
 
